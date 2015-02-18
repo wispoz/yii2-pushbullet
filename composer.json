@@ -31,7 +31,7 @@
     },
     "autoload": {
         "psr-4": {
-            "": "src/"
+            "yesaulov/yii2-pushbullet": "src/"
         }
     }
 }
